@@ -1,0 +1,292 @@
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:06 PM
+File C:\PData\EXEs\Integrator\Inbound\PLANTFOCUS_CC_MATRECTRANS_PF_750183.1576695514926133482.dat does not match import site identifier ignoring...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:06 PM
+C:\Pdata\EXEs\Integrator\HANDOR\HANCalc.bat with date 02/10/2020...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:07 PM
+System.ComponentModel.Win32Exception
+Message : The system cannot find the file specified
+StackTrace :    at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at PlantFocus_Integrator.Program.<ImportFlatFile>d__8.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 315
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:14 PM
+File C:\PData\EXEs\Integrator\Inbound\PLANTFOCUS_CC_MATRECTRANS_PF_750183.1576695514926133482.dat does not match import site identifier ignoring...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:14 PM
+C:\Pdata\EXEs\Integrator\HANDOR\HANCalc.bat with date 02/10/2020...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:15 PM
+System.ComponentModel.Win32Exception
+Message : The system cannot find the file specified
+StackTrace :    at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at PlantFocus_Integrator.Program.<ImportFlatFile>d__8.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 315
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:22 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:24 PM
+0 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:24 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:25 PM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<BuildIntegrationData>d__10.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 358
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:25 PM
+0 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:25 PM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:25 PM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<PostIntegrationData>d__11.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 431
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:25 PM
+ NOTHING TO SEND
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:25 PM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:27 PM
+0 integration data items from queue to be outputted
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:27 PM: Outputting integration flat file...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:40:27 PM
+ NOTHING TO OUTPUT, EXITING
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:21 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:23 PM
+0 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:23 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:23 PM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<BuildIntegrationData>d__10.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 358
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:23 PM
+0 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:23 PM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:23 PM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<PostIntegrationData>d__11.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 431
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:23 PM
+ NOTHING TO SEND
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:23 PM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:37 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:39 PM
+5 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:50:39 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:54:36 PM
+ 10 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:54:36 PM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:54:38 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:54:38 PM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:54:39 PM
+ 10 integration data items from queue to be outputted
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:54:39 PM: Outputting integration flat file...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:54:39 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:54:39 PM: Updating database with flat file output information...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:54:43 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:55:27 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:55:29 PM
+28 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:55:29 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:11 PM
+ 56 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:11 PM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:20 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:20 PM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:21 PM
+ 56 integration data items from queue to be outputted
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:21 PM: Outputting integration flat file...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:21 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:21 PM: Updating database with flat file output information...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:40 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:49 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:49 PM
+28 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:56:49 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:57:31 PM
+ 0 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:57:31 PM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:57:31 PM
+ NOTHING TO SEND
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:57:31 PM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:57:32 PM
+ 0 integration data items from queue to be outputted
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:57:32 PM: Outputting integration flat file...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:57:32 PM
+ NOTHING TO OUTPUT, EXITING
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:59:27 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:59:27 PM
+28 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 2/10/2020 4:59:27 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:13 PM
+ 1 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:13 PM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:14 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:14 PM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:14 PM
+ 1 integration data items from queue to be outputted
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:14 PM: Outputting integration flat file...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:14 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:14 PM: Updating database with flat file output information...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:15 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:43 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:44 PM
+28 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:00:44 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:01:24 PM
+ 0 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:01:24 PM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:01:24 PM
+ NOTHING TO SEND
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:01:24 PM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:01:24 PM
+ 0 integration data items from queue to be outputted
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:01:24 PM: Outputting integration flat file...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:01:24 PM
+ NOTHING TO OUTPUT, EXITING
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:01:40 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:01:40 PM
+28 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:01:40 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:02:24 PM
+ 0 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:02:24 PM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:02:24 PM
+ NOTHING TO SEND
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:02:24 PM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:02:25 PM
+ 0 integration data items from queue to be outputted
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:02:25 PM: Outputting integration flat file...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:02:25 PM
+ NOTHING TO OUTPUT, EXITING
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:03:31 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:03:34 PM
+28 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:03:34 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:05:16 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:05:18 PM
+28 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:05:18 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:06:06 PM
+ 1 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:06:06 PM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:06:06 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:06:06 PM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:06:07 PM
+ 1 integration data items from queue to be outputted
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:06:07 PM: Outputting integration flat file...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:06:07 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:06:07 PM: Updating database with flat file output information...
+-----------------------------------------------------------------------------
+Date : 2/10/2020 5:06:07 PM
+ SUCCESS

@@ -1,0 +1,9 @@
+C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\bin\Debug\PlantFocus_Integrator.exe.config
+C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\bin\Debug\PlantFocus_Integrator.exe
+C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\bin\Debug\PlantFocus_Integrator.pdb
+C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\obj\Debug\PlantFocus_Integrator.csproj.CopyComplete
+C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\obj\Debug\PlantFocus_Integrator.exe
+C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\obj\Debug\PlantFocus_Integrator.pdb
+C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\obj\Debug\PlantFocus_Integrator.csprojAssemblyReference.cache

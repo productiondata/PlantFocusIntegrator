@@ -1,0 +1,378 @@
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:43:15 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:43:41 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:43:43 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 182
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:44:20 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:44:22 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 182
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:44:38 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:44:40 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 182
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:46:40 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:46:43 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 187
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:46:43 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.PFIntegrator_Logger.LogError(Exception ex, String methodName, ConsoleColor color) in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Helpers\PFIntegrator_Logger.cs:line 42
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 191
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 45
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:57:08 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:57:10 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 187
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:57:10 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.PFIntegrator_Logger.LogError(Exception ex, String methodName, ConsoleColor color) in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Helpers\PFIntegrator_Logger.cs:line 42
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 191
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 45
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:58:37 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:58:53 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:59:32 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 187
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:59:39 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.PFIntegrator_Logger.LogError(Exception ex, String methodName, ConsoleColor color) in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Helpers\PFIntegrator_Logger.cs:line 42
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 191
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 45
+-----------------------------------------------------------------------------
+Date : 12/3/2019 10:59:55 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:00:04 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 187
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:00:23 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.PFIntegrator_Logger.LogError(Exception ex, String methodName, ConsoleColor color) in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Helpers\PFIntegrator_Logger.cs:line 42
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 191
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 45
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:00:52 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:00:56 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 187
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:01:21 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.PFIntegrator_Logger.LogError(Exception ex, String methodName, ConsoleColor color) in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Helpers\PFIntegrator_Logger.cs:line 42
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 191
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 45
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:03:11 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:03:13 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 187
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:03:23 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.PFIntegrator_Logger.LogError(Exception ex, String methodName, ConsoleColor color) in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Helpers\PFIntegrator_Logger.cs:line 40
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 191
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 45
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:04:28 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:04:30 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 187
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:04:38 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.PFIntegrator_Logger.LogError(Exception ex, String methodName, ConsoleColor color) in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Helpers\PFIntegrator_Logger.cs:line 40
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 191
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 45
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:05:21 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:05:24 AM
+System.ArgumentNullException
+Message : Value cannot be null.
+Parameter name: value
+StackTrace :    at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 187
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:05:51 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.PFIntegrator_Logger.LogError(Exception ex, String methodName, ConsoleColor color) in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Helpers\PFIntegrator_Logger.cs:line 40
+   at PlantFocus_Integrator.Program.<GetIntegrationItems>d__6.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 191
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 45
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:10:38 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:01 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:03 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 46
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:14 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:19 AM
+27 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:19 AM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:40 AM
+ 1 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:40 AM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:40 AM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:40 AM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:41 AM
+ 1 integration data items from queue to be outputted
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:41 AM: Outputing integration flat file...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:41 AM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:41 AM: Updating database with flat file output information...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:33:41 AM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:35:56 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:35:58 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 46
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:36:11 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:36:13 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 46
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:37:21 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:39:16 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:39:18 AM
+0 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:39:18 AM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:39:18 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<BuildIntegrationData>d__9.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 280
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:39:22 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.PFIntegrator_Logger.LogError(Exception ex, String methodName, ConsoleColor color) in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Helpers\PFIntegrator_Logger.cs:line 40
+   at PlantFocus_Integrator.Program.<BuildIntegrationData>d__9.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 310
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at PlantFocus_Integrator.Program.<Main>d__3.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 52
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:53:43 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:53:45 AM
+0 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:53:45 AM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:53:45 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<BuildIntegrationData>d__9.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 280
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:53:45 AM
+0 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:53:45 AM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:53:45 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<PostIntegrationData>d__10.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 323
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:53:45 AM
+ FAILURE, EXITING
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:55:28 AM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:55:30 AM
+0 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:55:30 AM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:55:31 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<BuildIntegrationData>d__9.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 282
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:55:31 AM
+0 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:55:31 AM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:55:31 AM
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at PlantFocus_Integrator.Program.<PostIntegrationData>d__10.MoveNext() in C:\Users\chiloh.edwards\source\repos\PlantFocus_Integrator\PlantFocus_Integrator\Program.cs:line 325
+-----------------------------------------------------------------------------
+Date : 12/3/2019 11:55:31 AM
+ FAILURE, EXITING
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:19 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:23 PM
+27 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:23 PM: Building integration data to be sent to queue...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:38 PM
+ 1 integration data items to be sent to queue
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:38 PM: Posting new integration data to queue...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:38 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:38 PM: Retrieving all queue items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:39 PM
+ 1 integration data items from queue to be outputted
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:39 PM: Outputing integration flat file...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:39 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:39 PM: Updating database with flat file output information...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:03:39 PM
+ SUCCESS
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:31:25 PM: Retrieving integration items...
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:31:28 PM
+27 retrieved integration items
+-----------------------------------------------------------------------------
+Date : 12/3/2019 12:31:28 PM: Building integration data to be sent to queue...
